@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import Navigation from "./Navigation";
+import "./style.css";
 
 class Landing extends Component {
   state = {};
